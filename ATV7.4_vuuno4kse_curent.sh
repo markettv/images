@@ -1,7 +1,7 @@
 echo "################ OPENATV7.4 #################"
 echo "################ VUPLUS #################"
 echo "################ PY3.12.3 #################"
-echo "############ OCTAGON SF8008 #################"
+echo "############ UNO4KSE #################"
 #!/bin/sh
 #
 wget -O /media/hdd/images/openatv-7.4-vuduo4kse-20240514_usb.zip "http://images.mynonpublic.com/openatv/7.4/current.php?open=vuuno4kse"
