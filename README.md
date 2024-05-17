@@ -1,20 +1,8 @@
 
+VUPLUS UNO4K SE
+wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/images/main/ATV7.4_vuuno4kse_curent.sh -O - | /bin/sh
+VUPLUS DUO4K SE
+wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/images/main/ATV7.4_vuduo4kse_curent.sh -O - | /bin/sh
+OCTAGON SF8008
+wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/images/main/ATV7.4_sf8008_curent.sh -O - | /bin/sh
 
-
-
-
-wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/images/main/openatv.sh -O - | /bin/sh
-
-
-
-
-
-ncam
-
-
-wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/images/main/enigma2-plugin-softcams-ncam_V14.9-r0.sh -O - | /bin/sh
-
-
-
-
-wget -q "--no-check-certificate" https://files.catbox.moe/l4iz1i.sh -O - | /bin/sh
