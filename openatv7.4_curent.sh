@@ -1,8 +1,10 @@
-echo "################ OPENATV #################"
-echo "############ OCTAGON SF80008 #################"
+echo "################ OPENATV7.4 #################"
+echo "################ VUPLUS #################"
+echo "################ PY3.12.3 #################"
+echo "############ OCTAGON SF8008 #################"
 #!/bin/sh
 #
-wget -O /media/hdd/images/openatv-7.4-sf8008-20240514_mmc.zip "https://files.catbox.moe/auwivn.zip"
+wget -O /media/hdd/images/openatv-7.4-vuduo4kse-20240514_usb.zip "http://images.mynonpublic.com/openatv/7.4/current.php?open=vuduo4kse"
 
 echo ""
 cd ..
