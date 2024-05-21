@@ -15,7 +15,7 @@ wget -O /media/hdd/images/openatv-7.4-vuduo4kse-20240514_usb.zip "http://images.
 echo ""
 cd ..
 sync
-echo "############ INSTALLATION COMPLETED ########"
+echo "############ DOWNLOAD COMPLETED ########"
 echo "############ RESTARTING... #################" 
 init 4
 sleep 2
